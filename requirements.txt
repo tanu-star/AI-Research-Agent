@@ -1,0 +1,15 @@
+streamlit
+fastapi
+uvicorn[standard]
+transformers
+torch
+requests
+newspaper3k
+beautifulsoup4
+lxml
+python-dotenv
+pydantic[email]
+python-jose[cryptography]
+passlib[bcrypt]
+fpdf
+python-multipart
